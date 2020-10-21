@@ -1,0 +1,54 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "4Ever",
+      "message": {
+        "embeds": [
+          {
+            "title": "4Ever",
+            "description": "Raymond is good at sequences. He has made a puzzle that no one in his class could solve. It involves taking a number, finding the number of letters it has, then making this number the new number, and doing this over and over again to form a sequence. Raymond found that he would always end up repeating forever at the number 4, because it has 4 letters, four. He showed some sample sequences to get 4, but none of his classmates could solve the puzzle. He is exhausted from having to count out new patterns, so he gives the task to you. You must write a program to display the sequence from an input to 4.",
+            "color": 65460,
+            "fields": [
+              {
+                "name": "Numbers",
+                "value": "> 1 = one     11 = eleven      30 = thirty           1000 = onethousand\n> 2 = two     12 = twelve      40 = forty            1090 = onethousandninety\n> 3 = three   13 = thirteen    50 = fifty            2500 = twothousandfivehundred\n> 4 = four    14 = fourteen    60 = sixty            5123 = fivethousandonehundredtwentythree\n> 5 = five    15 = fifteen     70 = seventy          10 000 = tenthousand\n> 6 = six     16 = sixteen     80 = eighty           100 000 = onehundredthousand\n> 7 = seven   17 = seventeen   90 = ninety           1 000 000 = onemillion\n> 8 = eight   18 = eighteen    100 = onehundred      10 000 000 = tenmillion\n> 9 = nine    19 = nineteen    101 = onehundredone   100 000 000 = onehundredmillion\n> 10 = ten    20 = twenty      200 = twohundred      1 000 000 000 = onebillion"
+              },
+              {
+                "name": "Input Specifications",
+                "value": "The input will consist of an integer N (1≤N≤2×109), the number to start the sequence."
+              },
+              {
+                "name": "Output Specifications",
+                "value": "Output one integer on each line the sequence from N (exclusive) to 4 (inclusive)."
+              },
+              {
+                "name": "Sample Input",
+                "value": "6",
+                "inline": true
+              },
+              {
+                "name": "Sample Output",
+                "value": "3\n5\n4",
+                "inline": true
+              },
+              {
+                "name": "__How to Submit__",
+                "value": "There are two steps to submit your code for this challenge (Name: **4Ever**):\n1. Go to <#743121731480191088> and create a ticket by reacting to the :envelope_with_arrow:! Once you have reacted to the ticket bot, your ticket will be created on top of all the channels.\n2. Type your name, your PayPal email, and the code (notepad file if possible).\n\n_This challenges ends in 1 hour, starting from when this post occurs. _"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Developer Challenges",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "Tarj Mecwan",
+              "icon_url": "https://cdn.discordapp.com/attachments/743635440447520878/767558419321192508/a_5abff6ac9d7c26f562030a50c1f82a3f.gif"
+            },
+            "timestamp": "2020-10-21T22:22:00.000Z"
+          }
+        ]
+      }
+    }
+  ]
+}
